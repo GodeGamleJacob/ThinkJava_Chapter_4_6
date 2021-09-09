@@ -9,7 +9,7 @@ We had to use different methods in order to make it all work, but I ended up hav
 </p>
 </details>
 
-Below is a screenshot of one of the program.
+Below is a screenshot of the program.
 
 <details><summary><strong>Pictures</strong></summary> <p>
 
