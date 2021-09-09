@@ -13,7 +13,7 @@ Below is a screenshot of one of the program.
 
 <details><summary><strong>Pictures</strong></summary> <p>
 
-![OPG 4 3](https://user-images.githubusercontent.com/89967283/132508071-5b05009e-1c2c-4a41-9ea0-019d2365257f.png)
+![OPG 4 6](https://user-images.githubusercontent.com/89967283/132635873-d15cb8d2-c8fd-4ca7-ab88-ee37f0a8df87.png)
 
 </p>
 </details>
