@@ -3,7 +3,8 @@
 Basically just the tasks given in ThinkJava.
 
 <details><summary><strong>Details</strong></summary> <p>
-These tasks had us trying to figure out how the program runs itself.
+These tasks had us trying to figure out how to use computation for simple math.
+We had to use different methods in order to make it all work, but I ended up having to build a couple of extra methods, even though the task was to use only two.
 
 </p>
 </details>
